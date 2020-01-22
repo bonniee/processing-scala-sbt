@@ -1,3 +1,5 @@
+Bare-bones scaffolding for running Processing from Scala, using sbt.
+
 # Install
 
 ```
@@ -9,12 +11,4 @@ sbt update
 
 ```
 sbt run
-```
-
-# Develop
-
-```
-$ sbt
-
-> ~run
 ```
